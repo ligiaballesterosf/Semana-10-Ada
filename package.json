@@ -1,0 +1,11 @@
+{
+  "name": "adasemana10",
+  "version": "1.0.0",
+  "main": "clases.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
